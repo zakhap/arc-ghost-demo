@@ -1,10 +1,10 @@
 {
   "development": {
-    "apiUrl": "https://arc-ghost-demo.herokuapp.com/",
+    "apiUrl": "https://arc-ghost-demo.herokuapp.com",
     "contentApiKey": "2b3f7a2055999289e55a04f51c"
   },
   "production": {
-    "apiUrl": "https://arc-ghost-demo.herokuapp.com/",
+    "apiUrl": "https://arc-ghost-demo.herokuapp.com",
     "contentApiKey": "2b3f7a2055999289e55a04f51c"
   }
 }
